@@ -9,6 +9,6 @@
 
 **4. Anti_vm 우회**
  
-![mobsf_api_process_automation](https://github.com/kdjehdwls/MobileSandbox_MobSF/assets/50543442/28436c48-a4d9-4b2c-8845-7f20ef983e52)
+<img width="80%" src="https://private-user-images.githubusercontent.com/50543442/341267871-1e8a8135-f071-42b2-85d0-09583346335a.gif"/>
 
 [🔗시연영상 링크](https://youtu.be/rsbWD3IgQtY)
