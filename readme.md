@@ -28,11 +28,11 @@
 **3. 리패키징한 apk파일 서명 후 에뮬레이터 설치**
 
 - apk파일 서명
-- 
+  
 ![sign.jpg](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/sign.jpg)
 
 - apk 설치
-- 
+  
 ![install.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/install.png)
 
 **4. jadx분석 및 Frida 우회Script 만들기**
