@@ -2,6 +2,7 @@
 **샌드박스 구축을 통한 악성코드 자동 탐지 및 분석 시스템 개발**
 
 **1. 환경설정**
+
 - MobSF 설치 (https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 - Android studio & app tools 설치 (https://developer.android.com/studio)
 - SDK 컴포넌트 설치
@@ -14,16 +15,30 @@
 
 **2. dex파일 복호화 및 리패키징**
 
+-복호화
+![Decrypt.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/Decrypt.png)
+
+-리패키징
+![de_repack.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/de_repack.png)
+
 
 **3. 리패키징한 apk파일 서명 후 에뮬레이터 설치**
 
+- apk파일 서명
+![sign.jpg](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/sign.jpg)
+
+- apk 설치
+![install.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/install.png)
+
 **4. jadx분석 및 Frida 우회Script 만들기**
+
 
 **5. Frida코드 주입을 통한 우회하기 및 어플 실행**
 
+![frida.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/frida.png)
+
 **6. MobSF API를 이용한 분석 자동화**
- 
-<img width="80%" src="https://github.com/kdjehdwls/MobileSandbox_MobSF/assets/50543442/c6660053-93f5-4f14-a95d-9ee5fbadaa3e"/>
+
 
 
 **[🔗시연영상 링크](https://youtu.be/rsbWD3IgQtY)**
