@@ -2,7 +2,7 @@
 **샌드박스 구축을 통한 악성코드 자동 탐지 및 분석 시스템 개발**
 
 **1. 환경설정**
-
+- MobSF 설치 (https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 **2. 정적 분석 자동화**
 
 **3. 동적 분석 자동화**
