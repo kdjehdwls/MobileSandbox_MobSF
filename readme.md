@@ -12,11 +12,16 @@
 - JDK(11) (https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
 - sample.apk 악성 애플리케이션 다운
 
-**2. 정적 분석 자동화**
+**2. dex파일 복호화 및 리패키징**
 
-**3. 동적 분석 자동화**
 
-**4. Anti_vm 우회**
+**3. 리패키징한 apk파일 서명 후 에뮬레이터 설치**
+
+**4. jadx분석 및 Frida 우회Script 만들기**
+
+**5. Frida코드 주입을 통한 우회하기 및 어플 실행**
+
+**6. MobSF API를 이용한 분석 자동화**
  
 <img width="80%" src="https://github.com/kdjehdwls/MobileSandbox_MobSF/assets/50543442/c6660053-93f5-4f14-a95d-9ee5fbadaa3e"/>
 
