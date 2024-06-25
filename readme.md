@@ -22,6 +22,7 @@
 ![de_repack.png](https://github.com/kdjehdwls/MobileSandbox_MobSF/blob/master/img/de_repack.png)
 
 
+
 **3. 리패키징한 apk파일 서명 후 에뮬레이터 설치**
 
 - apk파일 서명
